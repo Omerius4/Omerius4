@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Omer
 
-🎯 **{CS-Student]**
+🎯 **CS-Student**
 
 Welcome to my GitHub profile! I’m passionate about building projects, learning new technologies, and improving my skills every day.
 
@@ -11,9 +11,9 @@ Welcome to my GitHub profile! I’m passionate about building projects, learning
 - 💻 Interested in:  Web Development, Software Development,Open Source
 - 🌱 Currently learning: C++, C# and Unity
 - 🛠️ Tech Stack:
-  - Languages: [e.g. JavaScript, Python, Java]
-  - Frameworks: [e.g. React, Node.js, Django]
-  - Tools: [e.g. Git, Docker, VS Code]
+  - Languages: C, C++, C#, JS, HTML, CSS, PHP, 
+  - Frameworks: Bootstraps Unity
+  - Tools: Git(hub)
 
 ---
 
@@ -35,20 +35,16 @@ Short description of your project.
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
----
 
 ## 🌐 Connect with Me
 
-- 📧 Email: [your@email.com]
-- 💼 LinkedIn: [link]
-- 🌍 Portfolio: [website if you have one]
+- 📧 Email: omerwahab2002@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/omer-wahab/
+- 🌍 Portfolio: 
 
 ---
 
 ## ⚡ Fun Fact
 
-Add something interesting or unique about yourself 😄
+I like to go to gym
