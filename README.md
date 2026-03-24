@@ -1,50 +1,52 @@
 # 👋 Hi, I'm Omer
 
-🎯 **CS-Student**
-
-Welcome to my GitHub profile! I’m passionate about building projects, learning new technologies, and improving my skills every day.
+🎯 CS student with a focus on building practical projects and continuously improving my skills.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Interested in:  Web Development, Software Development,Open Source
-- 🌱 Currently learning: C++, C# and Unity
-- 🛠️ Tech Stack:
-  - Languages: C, C++, C#, JS, HTML, CSS, PHP, 
-  - Frameworks: Bootstraps Unity
-  - Tools: Git(hub)
+I’m currently studying computer science and enjoy working on projects where I can apply what I learn directly.  
+Most of my work revolves around software development, with a growing interest in game development and web technologies.
+
+- 💻 Interests: Web Development, Software Development, Open Source  
+- 🌱 Currently learning: C++, C#, Unity  
+- 🛠️ Tech Stack:  
+  - Languages: C, C++, C#, JavaScript, HTML, CSS, PHP  
+  - Frameworks/Tools: Bootstrap, Unity, Git, GitHub  
 
 ---
 
 ## 📂 Projects
 
-### 🔹 [Project Name 1]
-Short description of what the project does and the problem it solves.
+### 🔹 Dungeon Crawler (Unity)
 
-**Tech:** [Technologies used]  
-👉 [Repository Link]
+A 2D dungeon crawler game built in Unity as part of a student project.  
+The focus is on core game mechanics like movement, combat, and map design.
+
+**Tech:** C#, Unity  
+
 
 ---
 
-### 🔹 [Project Name 2]
-Short description of your project.
+### 🔹 Arabic Memory Game
 
-**Tech:** [Technologies used]  
-👉 [Repository Link]
+A browser-based memory card game designed to help users learn how to read Arabic.  
+Players match characters while getting familiar with the alphabet in a simple, interactive way.
+
+**Tech:** HTML, CSS, JavaScript  
+
 
 ---
-
-
 
 ## 🌐 Connect with Me
 
-- 📧 Email: omerwahab2002@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/omer-wahab/
-- 🌍 Portfolio: 
+- 📧 Email: omerwahab2002@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/omer-wahab/  
+- 🌍 Portfolio: (coming soon)
 
 ---
 
 ## ⚡ Fun Fact
 
-I like to go to gym
+I go to the gym regularly and enjoy staying active.
