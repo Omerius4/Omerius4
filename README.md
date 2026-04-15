@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Omer
+#  Hi, I'm Omer
 
-🎯 CS student with a focus on building practical projects and continuously improving my skills.
+ CS student with a focus on building practical projects and continuously improving my skills.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I’m currently studying computer science and enjoy working on projects where I can apply what I learn directly.  
 Most of my work revolves around software development, with a growing interest in game development and web technologies.
@@ -17,7 +17,7 @@ Most of my work revolves around software development, with a growing interest in
 
 ---
 
-## 📂 Projects
+##  Projects
 
 ### 🔹 Dungeon Crawler (Unity)
 
@@ -39,14 +39,14 @@ Players match characters while getting familiar with the alphabet in a simple, i
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 - 📧 Email: omerwahab2002@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/omer-wahab/  
-- 🌍 Portfolio: (coming soon)
+  
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 
 I go to the gym regularly and enjoy staying active.
